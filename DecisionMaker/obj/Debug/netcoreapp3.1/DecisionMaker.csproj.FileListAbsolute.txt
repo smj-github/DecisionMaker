@@ -1,0 +1,11 @@
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.exe
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.deps.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.dev.json
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.pdb
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.csprojAssemblyReference.cache
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfoInputs.cache
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfo.cs
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Sumana\Study\GC-C#.NetBootcamp\Day2\Lab3\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.pdb
